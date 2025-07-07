@@ -12,7 +12,7 @@ git status is used to check the current status of the file
 
 So the command is git commit -m " " is used to commit and add commit message .
 
-by git log command is used to check the log of the commits
+by git log command is used to check the log of the commits.
 
 git add .  can be used to add all files together in one go 
 dot (.) to specify everything inside this current directory.
