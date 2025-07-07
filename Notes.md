@@ -19,6 +19,6 @@ dot (.) to specify everything inside this current directory.
 
 git diff <file name> is used to see the differnce between the staging area and the working area.
 
-git diff --cached <file name> is used to see the staged changes
+git diff --cached <file name> is used to see the staged changes.
 
 git checkout<file name> will rollback to the last commited version of that file..
