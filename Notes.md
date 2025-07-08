@@ -2,9 +2,7 @@ Git is a free and open-source distributed version control system used to track c
 
 working directory ---> staging area ---> git repository.
 
-
-
-To initialize git we simply write "git init".
+ To initialize git we simply write "git init".
 
 the command, "git add". is used to add the changes in the staging area
 
