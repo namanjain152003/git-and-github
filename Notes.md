@@ -2,6 +2,7 @@ Git is a free and open-source distributed version control system used to track c
 
 working directory ---> staging area ---> git repository.
 
+
  To initialize git we simply write "git init".
 
 the command, "git add". is used to add the changes in the staging area
@@ -20,3 +21,8 @@ git diff <file name> is used to see the differnce between the staging area and t
 git diff --cached <file name> is used to see the staged changes.
 
 git checkout<file name> will rollback to the last commited version of that file..
+
+git remote add orgin <github url> is used in terminal to add our repository in which our data should be saved.
+
+git push -u origin main is used to push all the commits on our github repo..
+
