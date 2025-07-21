@@ -26,3 +26,7 @@ git remote add orgin <github url> is used in terminal to add our repository in w
 
 git push -u origin main is used to push all the commits on our github repo..
 
+git rm --cached -r .   is used to remove the folders from the staging area
+
+.gitignore is used to avoid the files and folder that are added in this so that they cant be added in the repo like apikey , passwords etc
+
